@@ -6,5 +6,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/philemmo/on-demand/
+    - export DEPLOYPATH=/home/philemmo/mcf/
     - /bin/cp -R * $DEPLOYPATH
