@@ -6,5 +6,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/philemmo/odi/
+    - export DEPLOYPATH=/home/philemmo/odit/
     - /bin/cp -R * $DEPLOYPATH
