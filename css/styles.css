@@ -229,6 +229,14 @@ a.odit-crumb, a.mch-crumb:active {
 /***** background image *****/
 .bg-img-hero{
   background-image: url(/images/one-zero.jpg);
+  bottom: 0;
+    height: 25vh;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
 }
 
 .text-underline{
