@@ -5,20 +5,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Website Design | On Demand IT</title>
+    <title>Website Design | OnDemand IT</title>
 
-    <meta name="description" content="A simple HTML5 Template for new projects.">
+    <meta name="description" content="Experienced in web development and maintenance, creating WCAG 2.1-compliant, usable, secure, user-focused websites.">
     <meta name="author" content="SitePoint">
 
-    <meta property="og:title" content="A Basic HTML5 Template">
+    <meta property="og:title" content="Website Design | OnDemand IT">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://on-demand.philemmons.dev/">
-    <meta property="og:description" content="A simple HTML5 Template for new projects.">
-    <meta property="og:image" content="image.png">
+    <meta property="og:description" content="OnDemand IT Services delivers expert tech support, SEO-optimized websites, and powerful online surveys—helping your business run smarter, faster.">
+    <meta property="og:image" content="css/icons/android-chrome-512x512.png">
 
-    <link rel="icon" href="/favicon.ico">
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="icon" href="css/icons/favicon.ico">
+    <link rel="apple-touch-icon" href="css/icons/apple-touch-icon.png">
 
     <link rel="stylesheet" href="css/styles.css?v=1.0">
 
