@@ -41,11 +41,6 @@ include_once 'header-bottom.inc';
   </nav>
 
   <header id="main-content">
-    <div class="d-flex h-rem">
-      <div id="bg-left"></div>
-      <div id="bg-right"></div>
-    </div>
-
     <div class="container hero-content">
       <div class="row">
         <div class="col-md-6">
