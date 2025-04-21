@@ -8,6 +8,19 @@ include_once 'header-bottom.inc';
 <body id="toTop">
   <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
 
+  <header id="main-content">
+    <!-- Hero Section -->
+    <div class="container-fluid">
+      <div class="row justify-content-center mb-5 bg-img-hero">
+        <div class="col-xl-6 col-lg-7 col-md-9">
+          <section class="text-center text-white text-underline">
+            <h1 >Website Design | OnDemand IT</h1>
+          </section>
+        </div>
+      </div>
+    </div>
+  </header>
+
   <nav class="navbar navbar-expand-lg odit-navbar-light" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
@@ -36,19 +49,6 @@ include_once 'header-bottom.inc';
       </div>
     </div>
   </nav>
-
-  <header id="main-content">
-    <!-- Hero Section -->
-    <div class="container-fluid">
-      <div class="row justify-content-center mb-5 bg-img-hero">
-        <div class="col-xl-6 col-lg-7 col-md-9">
-          <section class="text-center text-white text-underline">
-            <h1 >Website Design | OnDemand IT</h1>
-          </section>
-        </div>
-      </div>
-    </div>
-  </header>
 
   <main>
     More Content Incoming.

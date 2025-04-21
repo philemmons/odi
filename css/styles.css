@@ -238,8 +238,6 @@ a.odit-crumb, a.mch-crumb:active {
     top: 0;
     width: 100%;
     background-size: cover;
-    background-color: #000000;
-    opacity: 0.5;
 }
 
 .text-underline{
