@@ -14,10 +14,10 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://on-demand.philemmons.dev/">
     <meta property="og:description" content="OnDemand IT Services delivers expert tech support, SEO-optimized websites, and powerful online surveys—helping your business run smarter, faster.">
-    <meta property="og:image" content="css/icons/android-chrome-512x512.png">
+    <meta property="og:image" content="images/icons/android-chrome-512x512.png">
 
-    <link rel="icon" href="css/icons/favicon.ico">
-    <link rel="apple-touch-icon" href="css/icons/apple-touch-icon.png">
+    <link rel="icon" href="images/icons/favicon.ico">
+    <link rel="apple-touch-icon" href="images/icons/apple-touch-icon.png">
 
     <link rel="stylesheet" href="css/styles.css?v=1.0">
 
