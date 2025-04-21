@@ -55,6 +55,7 @@ h5,
 h6 {
   line-height: 1.5 !important;
   letter-spacing: 2px;
+  font-family:Georgia;
 }
 
 a {

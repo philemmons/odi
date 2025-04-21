@@ -43,7 +43,7 @@ include_once 'header-bottom.inc';
       <div class="row justify-content-center mb-5 bg-img-hero">
         <div class="col-xl-6 col-lg-7 col-md-9">
           <section class="text-center text-white text-underline">
-            <h1>Website Design | OnDemand IT</h1>
+            <h1 >Website Design | OnDemand IT</h1>
           </section>
         </div>
       </div>
