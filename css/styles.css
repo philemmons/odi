@@ -224,3 +224,13 @@ a.odit-crumb, a.mch-crumb:active {
   color: var(--color-1);
   letter-spacing: 1px;
 }
+
+/***** background image *****/
+.bg-img-hero{
+  background-image: url(/images/one-zero.jpg);
+}
+
+.text-underline{
+  text-decoration: underline;
+  text-underline-offset: 0.25em !important;
+}

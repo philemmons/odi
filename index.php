@@ -6,9 +6,9 @@ include_once 'header-bottom.inc';
 ?>
 
 <body id="toTop">
-    <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
+  <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
 
-    <nav class="navbar navbar-expand-lg odit-navbar-light" aria-label="main menu">
+  <nav class="navbar navbar-expand-lg odit-navbar-light" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
         <p class="odit-logo-title h4"><img src="images\icons\favicon-32x32.png" alt="Flip flop circuit logo" class="pe-2">OnDemand IT</p>
@@ -21,7 +21,7 @@ include_once 'header-bottom.inc';
       <div class="collapse navbar-collapse" id="topNavbar">
         <ul class="navbar-nav ms-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link active px-2" href="index.php" aria-current="page"><span class="visually-hidden">(current)</span>Website Design</a>
+            <a class="nav-link active px-2" href="/" aria-current="page"><span class="visually-hidden">(current)</span>Website Design</a>
           </li>
           <li class="nav-item">
             <a class="nav-link px-2" href="#survey">Survey Coding</a>
@@ -38,31 +38,23 @@ include_once 'header-bottom.inc';
   </nav>
 
   <header id="main-content">
-        <!-- Hero Section -->
-        <div class="container-fluid">
-            <div class="row justify-content-center align-items-end mb-5 bg-frame bg-img-ourStory" title="Welcome to story, the long and short of it.">
-                <div class="col-xl-6 col-lg-7 col-md-9">
-                    <div class="text-center">
-                        <p class="fw-bold ">
-                            <a href="index.php" class="odit-crumb">Home&gt;</a>&nbsp;&nbsp;<a href="#" class="odit-crumb">Our Story&gt;</a>
-                        </p>
-                    </div>
-                    <div class="text-center h1-ls" title="Yes, the long and the short of it.">
-                        <section aria-label="Page Intro">
-                            <h1 class="bswash-font pb-4 px-3 px-md-0">Our Story
-                            </h1>
-                        </section>
-                    </div>
-                </div>
-            </div>
+    <!-- Hero Section -->
+    <div class="container-fluid">
+      <div class="row justify-content-center mb-5 bg-img-hero">
+        <div class="col-xl-6 col-lg-7 col-md-9">
+          <section class="text-center text-white text-underline">
+            <h1>Website Design | OnDemand IT</h1>
+          </section>
         </div>
-    </header>
+      </div>
+    </div>
+  </header>
 
   <main>
     More Content Incoming.
   </main>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
 </body>
 
 
