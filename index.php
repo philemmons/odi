@@ -8,32 +8,29 @@ include_once 'header-bottom.inc';
 <body id="toTop">
     <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
 
-    <nav class="navbar navbar-expand-lg mcf-navbar-light" aria-label="main menu">
+    <nav class="navbar navbar-expand-lg odit-navbar-light" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
-        <p class="mcf-logo-title h4"><img src="../images/heart-infinity.png" alt="Heart wreath with infinity through the middle." class="pe-2">Millie's Crazy Flowers</p>
+        <p class="odit-logo-title h4"><img src="../images/favicon-32x32.png" alt="Flip flop circuit logo" class="pe-2">OnDemand IT</p>
 
       </a>
       <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#topNavbar" aria-controls="topNavbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="pe-2">MENU</span>
+        <span class="pe-2">Main Menu</span>
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="topNavbar">
         <ul class="navbar-nav ms-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link active px-2" href="index.php" aria-current="page">Home<span class="visually-hidden">(current)</span></a>
+            <a class="nav-link active px-2" href="index.php" aria-current="page"><span class="visually-hidden">(current)</span>Website Design</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="our_story.php">Our Story</a>
+            <a class="nav-link px-2" href="#survey">Survey Coding</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="purchase.php">Purchase</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-2" href="newsletter-april-2024.php">Newsletter</a>
+            <a class="nav-link px-2" href="#about">About Us</a>
           </li>
           <li class="nav-item" style="border-right: none;">
-            <a class="nav-link px-2" href="contact.php">Contact Us</a>
+            <a class="nav-link px-2" href="#message">Message</a>
           </li>
         </ul>
       </div>
@@ -41,27 +38,25 @@ include_once 'header-bottom.inc';
   </nav>
 
   <header id="main-content">
-    <div class="container hero-content">
-      <div class="row">
-        <div class="col-md-6">
-          <section aria-label="Website Intro">
-            <h1 class="bswash-font h1-ls text-black">Millie's Crazy Flowers</h1>
-            <p class="h4 f-italics pe-5">Legacy of love, caring, and lasting friendship towards one another.</p>
-            <span class="sr-only">(The above without italics: Legacy of love, caring, and lasting friendship towards one another.)</span>
-
-            <p class="pt-2"> Our artist hand crafts every beautiful flower that no two are alike.</p>
-            <p class="h4 f-italics pe-5">Stay tuned for our next "Spring Craft Bazaar", June of 2025!</p>
-          </section>
-          <div class="pb-5">
-            <a href="#discover" class="btn mcf-button p-3 fs-5">Discover</a>
-          </div>
+        <!-- Hero Section -->
+        <div class="container-fluid">
+            <div class="row justify-content-center align-items-end mb-5 bg-frame bg-img-ourStory" title="Welcome to story, the long and short of it.">
+                <div class="col-xl-6 col-lg-7 col-md-9">
+                    <div class="text-center">
+                        <p class="fw-bold ">
+                            <a href="index.php" class="odit-crumb">Home&gt;</a>&nbsp;&nbsp;<a href="#" class="odit-crumb">Our Story&gt;</a>
+                        </p>
+                    </div>
+                    <div class="text-center h1-ls" title="Yes, the long and the short of it.">
+                        <section aria-label="Page Intro">
+                            <h1 class="bswash-font pb-4 px-3 px-md-0">Our Story
+                            </h1>
+                        </section>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="col-md-6 text-center">
-          <img src="../images/mcf-wreath.png" class="img-fluid mx-auto" alt="Gorgeous floral wreath shaped like a heart.">
-        </div>
-      </div>
-    </div>
-  </header>
+    </header>
 
   <main>
     More Content Incoming.

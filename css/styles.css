@@ -128,7 +128,7 @@ hr {
 }
 
 /***** navbar *****/
-.mcf-navbar-light {
+.odit-navbar-light {
   background-color: var(--color-20);
   position: absolute;
   top: 2rem;
@@ -139,7 +139,7 @@ hr {
   letter-spacing: 1px;
 }
 
-.mcf-logo-title {
+.odit-logo-title {
   font-family: var(--ff-header);
   color: var(--color-1);
   letter-spacing: 2px;
@@ -148,7 +148,7 @@ hr {
   white-space: normal !important;
 }
 
-.mcf-navbar-dark {
+.odit-navbar-dark {
   background-color: var(--color-20);
   letter-spacing: 1px;
 }
@@ -182,7 +182,7 @@ hr {
 }
 
 @media screen and (max-width: 991.98px) {
-  .mcf-navbar-light {
+  .odit-navbar-light {
     padding: 1em 0;
     position: relative;
     top: 0;
@@ -192,7 +192,7 @@ hr {
     color: var(--color-1);
   }
 
-  .mcf-navbar-light .navbar-nav>.nav-item .nav-link.active {
+  .odit-navbar-light .navbar-nav>.nav-item .nav-link.active {
     background-color: var(--color-3);
     text-decoration: underline;
   }
@@ -216,4 +216,11 @@ hr {
 
 .navbar-toggler-icon {
   background-image: url('../images/white-toggler.png') !important;
+}
+
+/***** crumb *****/
+a.odit-crumb, a.mch-crumb:active {
+  text-decoration: none;
+  color: var(--color-1);
+  letter-spacing: 1px;
 }
