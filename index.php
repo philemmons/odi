@@ -11,7 +11,7 @@ include_once 'header-bottom.inc';
     <nav class="navbar navbar-expand-lg odit-navbar-light" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
-        <p class="odit-logo-title h4"><img src="../images/favicon-32x32.png" alt="Flip flop circuit logo" class="pe-2">OnDemand IT</p>
+        <p class="odit-logo-title h4"><img src="images/favicon-32x32.png" alt="Flip flop circuit logo" class="pe-2">OnDemand IT</p>
 
       </a>
       <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#topNavbar" aria-controls="topNavbar" aria-expanded="false" aria-label="Toggle navigation">
