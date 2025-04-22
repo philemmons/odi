@@ -4,10 +4,12 @@
   --color-13: #ddeeff;
   --color-14: #ccebdd;
 
-  --color-20: #ffffff;
   --color-21: #9eeaf9;
   --color-22: #0000c3;
   --color-23: #00007a;
+
+  --color-30: #ffffff;
+  --color-31: #000000;
 
   --error-color: #ff0019;
   --success-color: #009b00;
@@ -19,9 +21,9 @@
 body {
   font-family: var(--ff-main);
   line-height: 1.5;
-  background-color: var(--color-1);
+  background-color: var(--color-30);
   margin: auto;
-  color: var(--color-5);
+  color: var(--color-31);
 }
 
 .font-italic {
@@ -38,10 +40,6 @@ body {
   padding-bottom: 7rem !important;
 }
 
-.container.shadow-wrap {
-  background-color: var(--color-2);
-}
-
 .h1,
 .h2,
 .h3,
@@ -56,7 +54,7 @@ h5,
 h6 {
   line-height: 1.5 !important;
   letter-spacing: 2px;
-  font-family:Georgia;
+  font-family: var(--ff-main);
 }
 
 a {
@@ -73,13 +71,13 @@ a {
 
 /**** footer ****/
 .top-footer {
-  border-top: 1px solid var(--color-3);
+  border-top: 1px solid var(--color-31);
   padding: 1.5rem 0;
-  background-color: var(--color-2);
+  background-color: var(--color-30);
 }
 
 hr {
-  border-top: medium double var(--color-4);
+  border-top: medium double var(--color-30);
 }
 
 /**** footer and copyright ****/
@@ -89,7 +87,7 @@ hr {
   background-size: cover;
   color: var(--color-5);
   height: 150px;
-  border-top: inset 2px var(--color-6);
+  border-top: inset 2px var(--color-31);
 }
 
 #footer-image > p {
@@ -133,14 +131,15 @@ hr {
 /***** background image *****/
 .bg-img-hero{
   background-image: url(/images/one-zero.jpg);
-    background-size: cover;
+  background-size: cover;
 }
 
 /***** horizontal bar ******/
 .h-bar{
   width: 80%;
-  height: 0.15rem;
+  height: 0.5rem;
   background-color: #fff;
+  margin: auto;
 }
 
 .text-underline{

@@ -12,8 +12,8 @@ include_once 'header-bottom.inc';
   <header id="main-content">
     <div class="p-5 text-center bg-img-hero">
       <div class="container-fluid py-5">
-        <h1 class="text-body-emphasis">Website Design | OnDemand IT</h1>
-        <div class="h-bar"></div>
+        <h1 class="text-body-emphasis py-3">Website Design | OnDemand IT</h1>
+        <hr>
         <p class="col-lg-8 mx-auto lead">
           This takes the basic jumbotron above and makes its background edge-to-edge with a <code>.container</code> inside to align content. Similar to above, it's been recreated with built-in grid and utility classes.
         </p>
