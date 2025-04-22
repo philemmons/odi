@@ -19,7 +19,7 @@
 
 /**** typography and spacing ****/
 body {
-  font-family: var(--ff-main);
+  font-family: var(--ff-main) !important;
   line-height: 1.5;
   background-color: var(--color-30);
   margin: auto;
