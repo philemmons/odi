@@ -12,7 +12,7 @@ include_once 'header-bottom.inc';
   <header id="main-content">
     <div class="p-5 text-center bg-img-hero">
       <div class="container-fluid py-5">
-        <h1 class="text-body-emphasis py-1 text-white">Website Design | OnDemand IT</h1>
+        <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
         <div class="h-bar"></div>
         <p class="col-lg-8 mx-auto lead text-white">Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
         </p>
