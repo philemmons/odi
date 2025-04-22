@@ -207,8 +207,10 @@ hr {
   }
 
   .odit-navbar .navbar-nav>.nav-item .nav-link.active {
-    background-color: var(--color-24);
+    background-color: var(--color-30);
+    color: var(--color-31) !important;
     text-decoration: underline;
+    font-size: -calc(100% + 2px);
   }
 
   .navbar-nav>li>a:hover {
