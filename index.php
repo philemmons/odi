@@ -65,13 +65,10 @@ include_once 'header-bottom.inc';
               <a class="nav-link active" aria-current="page" href="#">Home<span class="visually-hidden">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link px-3" href="#about">About Us</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link px-3" href="#service">Website Services</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link px-3" href="#maintenance">Website Maintenance</a>
+              <a class="nav-link px-3" href="#maintenance">Maintenance</a>
             </li>
             <li class="nav-item">
               <a class="nav-link px-3" href="#survey">Survey Coding</a>
