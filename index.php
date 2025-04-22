@@ -34,22 +34,22 @@ include_once 'header-bottom.inc';
       <div class="collapse navbar-collapse" id="topNavbar">
         <ul class="navbar-nav ms-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link active px-2" href="/" aria-current="page">Home<span class="visually-hidden">(current)</span></a>
+            <a class="nav-link active px-3" href="/" aria-current="page">Home<span class="visually-hidden">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="#about">About Us</a>
+            <a class="nav-link px-3" href="#about">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="#service">Website Services</a>
+            <a class="nav-link px-3" href="#service">Website Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="#maintenance">Website Maintenance</a>
+            <a class="nav-link px-3" href="#maintenance">Website Maintenance</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="#survey">Survey Coding</a>
+            <a class="nav-link px-3" href="#survey">Survey Coding</a>
           </li>
           <li class="nav-item" style="border-right: none;">
-            <a class="nav-link px-2" href="#contact">Contact Us</a>
+            <a class="nav-link px-3" href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>
