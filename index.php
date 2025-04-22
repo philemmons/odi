@@ -40,7 +40,7 @@ include_once 'header-bottom.inc';
             </li>
             <li class="nav-item">
               <a class="nav-link px-3" href="#about">About Us</a>
-            </li>            
+            </li>
             <li class="nav-item">
               <a class="nav-link px-3" href="#contact">Contact Us</a>
             </li>
@@ -64,8 +64,65 @@ include_once 'header-bottom.inc';
   </header>
 
   <main>
-    More Content Incoming.
+    <div class="container">
+      <div class="row">
+        <div class="col-12">.col-9</div>
+
+        <div class="col-8">.col-4<br>Since 9 + 4 = 13 &gt; 12, this 4-column-wide div gets wrapped onto a new line as one contiguous unit.</div>
+        <div class="col-4">.col-6<br>Subsequent columns continue along the new line.</div>
+
+        <div class="col-12">.col-9</div>
+      </div>
+    </div>
+
+    <div class="grid text-center">
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+    </div>
   </main>
+
+  <aside>
+    <div class="py-6 px-5 bg-img-hero">
+      <div class="container-fluid py-5">
+        <h1 class="py-1 text-white">Why Choose Us?</h1>
+      </div>
+    </div>
+
+    <div class="grid text-center">
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+    </div>
+  </aside>
+
+  <aside>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">.col-9</div>
+      </div>
+    </div>
+  </aside>
+
+  <div class="h-bar-black"></div>
+
+  <?php include_once "footer.inc"; ?>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
 </body>
