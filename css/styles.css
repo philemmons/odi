@@ -120,21 +120,15 @@ hr {
   top: 0.5em;
   opacity: 1;
   transition: transform 0.1875s ease-out;
-  background-color: var(--color-24);
+  background-color: var(--color-24) !important;
+  border: var(--color-30) solid 1px !important;
 }
 
 .btn-skip:not(:focus):not(:hover) {
   transform: translateY(-4em);
   opacity: 0;
 }
-/**
-.btn-skip.btn:focus-visible {
-  color: var(--bs-btn-hover-color);
-  background-color: var(--color-24) !important;
-  border-color: var(--color-30) !important;
-  box-shadow: var(--bs-btn-focus-box-shadow);
-}
-**/
+
 :focus-visible {
   outline: var(--color-30) auto 2px !important;
 }
