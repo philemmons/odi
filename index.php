@@ -8,19 +8,6 @@ include_once 'header-bottom.inc';
 <body id="toTop">
   <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
 
-  <!-- Hero Section -->
-  <header id="main-content">
-    <div class="py-6 px-5 text-center bg-img-hero">
-      <div class="container-fluid py-5">
-        <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
-        <div class="h-bar"></div>
-        <p class="col-lg-8 mx-auto lead text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
-        </p>
-      </div>
-    </div>
-  </header>
-
-
   <nav class="navbar navbar-expand-lg odit-navbar" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
@@ -56,8 +43,17 @@ include_once 'header-bottom.inc';
     </div>
   </nav>
 
-
-
+  <!-- Hero Section -->
+  <header id="main-content">
+    <div class="py-6 px-5 text-center bg-img-hero">
+      <div class="container-fluid py-5">
+        <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
+        <div class="h-bar"></div>
+        <p class="col-lg-8 mx-auto lead text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
+        </p>
+      </div>
+    </div>
+  </header>
 
   <main>
     More Content Incoming.
