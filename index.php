@@ -21,7 +21,7 @@ include_once 'header-bottom.inc';
   </header>
 
 
-  <nav class="navbar navbar-expand-lg sticky-top" aria-label="main menu">
+  <nav class="navbar navbar-expand-lg odit-navbar" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
         <p class="odit-logo-title"><img src="/images/icons/favicon-32x32.png" alt="Flip-flop circuit token" class="pe-2">OnDemand IT</p>
@@ -34,19 +34,22 @@ include_once 'header-bottom.inc';
       <div class="collapse navbar-collapse" id="topNavbar">
         <ul class="navbar-nav ms-auto my-2 my-lg-0">
           <li class="nav-item">
-            <a class="nav-link active px-2" href="index.php" aria-current="page">Home<span class="visually-hidden">(current)</span></a>
+            <a class="nav-link active px-2" href="/" aria-current="page">Home<span class="visually-hidden">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="our_story.php">Our Story</a>
+            <a class="nav-link px-2" href="#about">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="purchase.php">Purchase</a>
+            <a class="nav-link px-2" href="#service">Website Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link px-2" href="newsletter-april-2024.php">Newsletter</a>
+            <a class="nav-link px-2" href="#maintenance">Website Maintenance</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-2" href="#survey">Survey Coding</a>
           </li>
           <li class="nav-item" style="border-right: none;">
-            <a class="nav-link px-2" href="contact.php">Contact Us</a>
+            <a class="nav-link px-2" href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>

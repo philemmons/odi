@@ -172,3 +172,65 @@ hr {
   background-image: url('/images/white-toggler.png') !important;
 }
 
+/***** navbar *****/
+.odit-navbar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  padding: 0.25rem 0;
+  letter-spacing: 1px;
+}
+
+.navbar-nav>.nav-item>.nav-link {
+  color: var(--color-30);
+}
+
+.navbar-nav>li>a:hover{
+  color: var(--color-30) !important;
+  text-decoration: underline;
+}
+
+.navbar-nav>.nav-item>.nav-link.active {
+  font-style: italic;
+  background-color: var(--color-24);
+  color: var(--color-30);
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 991.98px) {
+  .odit-navbar {
+    padding: 1em 0;
+    position: relative;
+    top: 0;
+  }
+
+  .navbar-nav>.nav-item>.nav-link {
+    color: var(--color-30);
+  }
+
+  .odit-navbar .navbar-nav>.nav-item .nav-link.active {
+    background-color: var(--color-24);
+    text-decoration: underline;
+  }
+
+  .navbar-nav>li>a:hover {
+    background-color: var(--color-30);
+    color: var(--color-31) !important;
+  }
+
+}
+
+/**** back to top ****/
+
+.back-to-top {
+  position: fixed;
+  cursor: pointer;
+  bottom: 16px;
+  right: 16px;
+  left: auto;
+  opacity: 0;
+  transition: opacity .5s linear;
+  z-index: 11;
+  background-color: var(--color-3);
+}
