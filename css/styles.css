@@ -243,4 +243,5 @@ a.odit-crumb, a.mch-crumb:active {
 .text-underline{
   text-decoration: underline;
   text-underline-offset: 0.25em !important;
+  vertical-align: middle;
 }
