@@ -21,7 +21,7 @@ include_once 'header-bottom.inc';
   </header>
 
 
-  <nav class="navbar navbar-expand-lg fixed-top" aria-label="main menu">
+  <nav class="navbar navbar-expand-lg sticky-top" aria-label="main menu">
     <div class="container-xxl">
       <a class="navbar-brand" href="/">
         <p class="odit-logo-title"><img src="/images/icons/favicon-32x32.png" alt="Flip-flop circuit token" class="pe-2">OnDemand IT</p>
