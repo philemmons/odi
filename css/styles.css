@@ -126,7 +126,7 @@ hr {
 
 /***** background image *****/
 .bg-img-hero {
-  background-image: url(/images/one-zero.jpg);
+  background: linear-gradient( rgba(0,0,0, 0.4), rgba(0,0,0,0.4) ), url(/images/one-zero.jpg);
   background-size: cover;
 }
 
