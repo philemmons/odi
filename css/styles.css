@@ -201,7 +201,6 @@ hr {
   background-color: var(--color-24);
   color: var(--color-30);
   text-decoration: underline;
-  border: var(--color-30) solid 0.1rem;
 }
 
 @media screen and (max-width: 991.98px) {
