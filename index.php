@@ -120,6 +120,44 @@ include_once 'header-bottom.inc';
     </div>
   </aside>
 
+  <aside>
+    <div class="py-6 px-5 bg-img-hero">
+      <div class="container-fluid py-5">
+        <h1 class="py-1 text-white">Why Choose Us?</h1>
+      </div>
+    </div>
+
+    <div class="grid text-center">
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+    </div>
+  </aside>
+
+  <aside>
+    <div class="py-6 px-5 bg-img-hero">
+      <div class="container-fluid py-5">
+        <h1 class="py-1 text-white">Why Choose Us?</h1>
+      </div>
+    </div>
+
+    <div class="grid text-center">
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+
+      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">.g-col-6</div>
+    </div>
+  </aside>
+
   <div class="h-bar-black"></div>
 
   <?php include_once "footer.inc"; ?>
