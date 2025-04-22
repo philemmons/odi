@@ -56,7 +56,7 @@ include_once 'header-bottom.inc';
     <div class="py-6 px-5 text-center bg-img-hero">
       <div class="container-fluid py-5">
         <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
-        <div class="h-bar"></div>
+        <div class="h-bar-light"></div>
         <p class="col-lg-8 mx-auto fs-4 py-2 text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
         </p>
       </div>
@@ -66,99 +66,211 @@ include_once 'header-bottom.inc';
   <main>
     <div class="container">
       <div class="row">
-        <div class="col-12">.col-9</div>
+        <div class="col-12">
+          <h2 call="fw-bold text-uppercase">Website Services</h2>
+        </div>
 
-        <div class="col-8">.col-4<br>Since 9 + 4 = 13 &gt; 12, this 4-column-wide div gets wrapped onto a new line as one contiguous unit.</div>
-        <div class="col-4">.col-6<br>Subsequent columns continue along the new line.</div>
+        <div class="col-8">
+          <p class="fw-bold">Maximize Your Online Impact</p>
+          <p>Your website is more than just an online presence—it's a vital tool for branding, customer engagement, and business growth. Our website design, branding, and maintenance services ensure your site is visually compelling, secure, and optimized for performance.
+          </p>
+        </div>
+        <div class="col-4">
+          <img class="img-thumbnail" src="/images/zero-one-graph.jpg" alt="">
+        </div>
 
-        <div class="col-12">.col-9</div>
+        <div class="col-12 fw-bold text-center">.
+          <p>We specialize in SEO-driven, accessible web sites designed for small businesses, entrepreneurs, and freelancers. Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
+          </p>
+        </div>
       </div>
     </div>
 
     <div class="grid text-center">
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Custom Website Design & Branding
+        </p>
+        <ul>
+          <li>A professional, mobile-friendly design that strengthens your brand identity and attracts conversions.</li>
+          <li>Optimized layouts improve user experience, ensuring customers stay longer and engage more.</li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Content Updates & Suppor</p>
+        <ul>
+          <li>Regularly refreshed, high-quality content keeps your website relevant and engaging.</li>
+          <li>Enhances credibility and strengthens customer trust in your brand.</li>
+        </ul>
+      </div>
 
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Website Maintenance & Security
+        </p>
+        <ul>
+          <li>Enhances credibility and strengthens customer trust in your brand.</li>
+          <li>Keeps your website running smoothly, ensuring reliability for your customers.</li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">WCAG 2.1 Compliance & Accessibility</p>
+        <ul>
+          <li>Ensures inclusivity by making your website usable for all visitors, including those with disabilities.</li>
+          <li>Helps meet legal requirements and improves overall user experience.</li>
+        </ul>
+      </div>
 
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">E-Commerce Solutions</p>
+        <ul>
+          <li>Secure, user-friendly online store setup with seamless checkout experiences.</li>
+          <li>Optimized for conversions to increase sales and customer retention.</li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Plugin & Software Updates</p>
+        <ul>
+          <li>Regular maintenance ensures your website remains functional, secure, and compatible with the latest technologies.</li>
+          <li>Reduces risks of crashes, broken features, or security vulnerabilities.</li>
+        </ul>
+      </div>
 
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">SEO & Performance Optimization</p>
+        <ul>
+          <li>Faster load times, structured data, and keyword strategies improve search rankings.</li>
+          <li>Drives organic traffic, making it easier for potential customers to find you.</li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Hosting, Domain, and DNS Support</p>
+        <ul>
+          <li>Reliable hosting solutions ensure speed, uptime, and security for your website.</li>
+          <li>Domain and email setup provide a professional and credible online presence.</li>
+        </ul>
+      </div>
     </div>
   </main>
 
   <aside>
-    <div class="py-6 px-5 bg-img-hero">
-      <div class="container-fluid py-5">
-        <h1 class="py-1 text-white">Why Choose Us?</h1>
+    <div class="p-1 bg-img-hero">
+      <div class="container-fluid py-2">
+        <h3 class="text-white fw-bold text-uppercase">Why Choose Us?</h1>
       </div>
     </div>
 
     <div class="grid text-center">
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
 
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Brand-Focused Design & Strategy
+        </p>
+        <ul>
+          <li>Your website is crafted to reflect your unique identity, ensuring consistency across all digital platforms.</li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">SEO-Optimized & Accessible Websites</p>
+        <ul>
+          <li>Maximizes visibility on search engines while ensuring an inclusive experience for all users.</li>
+        </ul>
+      </div>
 
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Flexible Support Options</p>
+        <ul>
+          <li>Choose between one-time fixes or long-term maintenance plans tailored to your business needs.</li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Fast Turnaround Time</p>
+        <ul>
+          <li>We prioritize efficiency, ensuring your website is up and running without unnecessary delays.</li>
+        </ul>
+      </div>
+
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Dedicated Ongoing Support Option</p>
+        <ul>
+          <li>We provide continuous assistance and improvements, keeping your website modern and competitive.</li>
+     </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3">Competitive Services</p>
+        <ul>
+          <li>We match or exceed those available in the Monterey area.</li>
+        </ul>
+      </div>
+
     </div>
   </aside>
 
+  <!--
   <aside>
-    <div class="container">
+    <div class="py-1 px-1 bg-img-hero">
+      <div class="container-fluid py-1">
+        <h1 class="py-1 text-white fw-bold text-uppercase">Why Choose Us?</h1>
+      </div>
+    </div>
+
+    <div class="grid text-center">
+
+      <div class="g-col-6">
+        <p class="fw-bold fs-3"></p>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3"></p>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+
+      <div class="g-col-6">
+        <p class="fw-bold fs-3"></p>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3"></p>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+
+      <div class="g-col-6">
+        <p class="fw-bold fs-3"></p>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      <div class="g-col-6">
+        <p class="fw-bold fs-3"></p>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      
+    </div>
+  </aside>
+-->
+
+  <div class="h-bar-dark"></div>
+
+  <div class="container">
       <div class="row">
-        <div class="col-12">.col-9</div>
+        <div class="col-12">
+          <h3 call="fw-bold">Let's create a website that enhances your brand, engages your audience, and supports your growth.</h3>
+        </div>
       </div>
-    </div>
-  </aside>
-
-  <aside>
-    <div class="py-6 px-5 bg-img-hero">
-      <div class="container-fluid py-5">
-        <h1 class="py-1 text-white">Why Choose Us?</h1>
-      </div>
-    </div>
-
-    <div class="grid text-center">
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-    </div>
-  </aside>
-
-  <aside>
-    <div class="py-6 px-5 bg-img-hero">
-      <div class="container-fluid py-5">
-        <h1 class="py-1 text-white">Why Choose Us?</h1>
-      </div>
-    </div>
-
-    <div class="grid text-center">
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-
-      <div class="g-col-6">.g-col-6</div>
-      <div class="g-col-6">.g-col-6</div>
-    </div>
-  </aside>
-
-  <div class="h-bar-black"></div>
+  </div>
 
   <?php include_once "footer.inc"; ?>
 

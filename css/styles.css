@@ -143,10 +143,17 @@ hr {
 }
 
 /***** horizontal bar ******/
-.h-bar {
+.h-bar-light {
   width: 80%;
   height: 0.5rem;
   background-color: #fff;
+  margin: auto;
+}
+
+.h-bar-dark {
+  width: 80%;
+  height: 0.5rem;
+  background-color: #000;
   margin: auto;
 }
 
