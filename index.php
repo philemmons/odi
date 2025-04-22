@@ -7,62 +7,27 @@ include_once 'header-bottom.inc';
 
 <body id="toTop">
   <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
-  <!--
-  <nav class="navbar navbar-expand-lg odit-navbar" aria-label="main menu">
-    <div class="container-xxl">
-      <a class="navbar-brand" href="/">
-        <p class="odit-logo-title"><img src="/images/icons/favicon-32x32.png" alt="Flip-flop circuit token" class="pe-2">OnDemand IT</p>
-      </a>
-      <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#topNavbar" aria-controls="topNavbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="pe-2">MENU</span>
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="topNavbar">
-        <ul class="navbar-nav ms-auto my-2 my-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active px-3" href="/" aria-current="page">Home<span class="visually-hidden">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-3" href="#about">About Us</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-3" href="#service">Website Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-3" href="#maintenance">Website Maintenance</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-3" href="#survey">Survey Coding</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-3" href="#contact">Contact Us</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
--->
-
-  <nav class="navbar navbar-expand-lg odit-navbar" aria-label="Offcanvas navbar large">
+  
+  <nav class="navbar navbar-expand-lg odit-navbar" aria-label="Offcanvas main menu">
     <div class="container-fluid">
 
       <a class="navbar-brand" href="/">
         <p class="odit-logo-title"><img src="/images/icons/favicon-32x32.png" alt="Flip-flop circuit token" class="pe-2">OnDemand IT</p>
       </a>
 
-      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbar2" aria-labelledby="offcanvasNavbar2Label">
+      <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
         <div class="offcanvas-header">
-          <h5 class="offcanvas-title" id="offcanvasNavbar2Label">MENU</h5>
+          <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Main Menu</h5>
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home<span class="visually-hidden">(current)</span></a>
+              <a class="nav-link px-3 active" aria-current="page" href="/">Home<span class="visually-hidden">(current)</span></a>
             </li>
             <li class="nav-item">
               <a class="nav-link px-3" href="#service">Website Services</a>
