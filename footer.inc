@@ -6,7 +6,7 @@
                 <li class="list-group-item text-uppercase fw-bold">Contact</li>
                 <li class="list-group-item">Phillip Emmons</li>
                 <li class="list-group-item">831.236.0849</li>
-                <li class="list-group-item">philemmons.now@gmail.com</li>
+                <li class="list-group-item">admin@philemmons.dev</li>
             </ul>
         </div>
 
