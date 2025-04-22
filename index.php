@@ -55,11 +55,12 @@ include_once 'header-bottom.inc';
   <header id="main-content">
     <div class="py-6 px-5 text-center bg-img-hero">
       <div class="container-fluid py-5">
-        <section aria-label=""
+        <section aria-label="Hero banner">
         <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
         <div class="h-bar-light"></div>
         <p class="col-lg-8 mx-auto fs-4 py-2 text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
         </p>
+        </section>
       </div>
     </div>
   </header>
