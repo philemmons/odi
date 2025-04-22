@@ -110,7 +110,7 @@ hr {
 }
 
 /**** content skip ****/
-.btn-skip {
+.btn-skip{
   font-weight: 600;
   cursor: pointer;
   position: absolute;
@@ -126,6 +126,13 @@ hr {
 .btn-skip:not(:focus):not(:hover) {
   transform: translateY(-4em);
   opacity: 0;
+}
+
+.btn-skip > .btn:focus-visible {
+  color: var(--bs-btn-hover-color);
+  background-color: var(--color-24) !important;
+  border-color: var(--color-30) !important;
+  box-shadow: var(--bs-btn-focus-box-shadow);
 }
 
 
