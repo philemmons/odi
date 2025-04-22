@@ -164,48 +164,50 @@ include_once 'header-bottom.inc';
       </div>
     </div>
 
-    <div class="row">
+    <div class="container">
+      <div class="row">
 
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3">Brand-Focused Design & Strategy
-        </p>
-        <ul>
-          <li>Your website is crafted to reflect your unique identity, ensuring consistency across all digital platforms.</li>
-        </ul>
-      </div>
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3">SEO-Optimized & Accessible Websites</p>
-        <ul>
-          <li>Maximizes visibility on search engines while ensuring an inclusive experience for all users.</li>
-        </ul>
-      </div>
+        <div class="col-sm-6">
+          <p class="fw-bold fs-3">Brand-Focused Design & Strategy
+          </p>
+          <ul>
+            <li>Your website is crafted to reflect your unique identity, ensuring consistency across all digital platforms.</li>
+          </ul>
+        </div>
+        <div class="col-sm-6">
+          <p class="fw-bold fs-3">SEO-Optimized & Accessible Websites</p>
+          <ul>
+            <li>Maximizes visibility on search engines while ensuring an inclusive experience for all users.</li>
+          </ul>
+        </div>
 
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3">Flexible Support Options</p>
-        <ul>
-          <li>Choose between one-time fixes or long-term maintenance plans tailored to your business needs.</li>
-        </ul>
-      </div>
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3">Fast Turnaround Time</p>
-        <ul>
-          <li>We prioritize efficiency, ensuring your website is up and running without unnecessary delays.</li>
-        </ul>
-      </div>
+        <div class="col-sm-6">
+          <p class="fw-bold fs-3">Flexible Support Options</p>
+          <ul>
+            <li>Choose between one-time fixes or long-term maintenance plans tailored to your business needs.</li>
+          </ul>
+        </div>
+        <div class="col-sm-6">
+          <p class="fw-bold fs-3">Fast Turnaround Time</p>
+          <ul>
+            <li>We prioritize efficiency, ensuring your website is up and running without unnecessary delays.</li>
+          </ul>
+        </div>
 
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3">Dedicated Ongoing Support Option</p>
-        <ul>
-          <li>We provide continuous assistance and improvements, keeping your website modern and competitive.</li>
-        </ul>
-      </div>
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3">Competitive Services</p>
-        <ul>
-          <li>We match or exceed those available in the Monterey area.</li>
-        </ul>
-      </div>
+        <div class="col-sm-6">
+          <p class="fw-bold fs-3">Dedicated Ongoing Support Option</p>
+          <ul>
+            <li>We provide continuous assistance and improvements, keeping your website modern and competitive.</li>
+          </ul>
+        </div>
+        <div class="col-sm-6">
+          <p class="fw-bold fs-3">Competitive Services</p>
+          <ul>
+            <li>We match or exceed those available in the Monterey area.</li>
+          </ul>
+        </div>
 
+      </div>
     </div>
   </article>
 
