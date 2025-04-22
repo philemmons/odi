@@ -10,11 +10,11 @@ include_once 'header-bottom.inc';
 
   <!-- Hero Section -->
   <header id="main-content">
-    <div class="p-5 text-center bg-img-hero">
+    <div class="py-7 px-5 text-center bg-img-hero">
       <div class="container-fluid py-5">
         <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
         <div class="h-bar"></div>
-        <p class="col-lg-8 mx-auto lead text-white">Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
+        <p class="col-lg-8 mx-auto lead text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
         </p>
       </div>
     </div>
