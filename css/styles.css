@@ -188,7 +188,6 @@ hr {
 }
 
 .navbar-nav>li>a:hover{
-  color: var(--color-30) !important;
   text-decoration: underline;
 }
 

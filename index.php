@@ -48,7 +48,7 @@ include_once 'header-bottom.inc';
           <li class="nav-item">
             <a class="nav-link px-3" href="#survey">Survey Coding</a>
           </li>
-          <li class="nav-item" style="border-right: none;">
+          <li class="nav-item">
             <a class="nav-link px-3" href="#contact">Contact Us</a>
           </li>
         </ul>
