@@ -7,7 +7,7 @@ include_once 'header-bottom.inc';
 
 <body id="toTop">
   <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
-  
+
   <nav class="navbar navbar-expand-lg odit-navbar" aria-label="Offcanvas main menu">
     <div class="container-fluid">
 
@@ -38,6 +38,9 @@ include_once 'header-bottom.inc';
             <li class="nav-item">
               <a class="nav-link px-3" href="#survey">Survey Coding</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link px-3" href="#about">About Us</a>
+            </li>            
             <li class="nav-item">
               <a class="nav-link px-3" href="#contact">Contact Us</a>
             </li>
