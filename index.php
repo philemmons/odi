@@ -57,7 +57,7 @@ include_once 'header-bottom.inc';
       <div class="container-fluid py-5">
         <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
         <div class="h-bar"></div>
-        <p class="col-lg-8 mx-auto lead text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
+        <p class="col-lg-8 mx-auto fs-4 py-2 text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
         </p>
       </div>
     </div>
