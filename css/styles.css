@@ -159,8 +159,6 @@ hr {
 .odit-logo-title {
   font-size: 1rem;
   margin-bottom: 0 !important;
-  padding: 0 0 0 0.5rem;
-  white-space: normal !important;
   color: var(--color-30);
 }
 
