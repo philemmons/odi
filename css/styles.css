@@ -63,9 +63,8 @@ a {
 }
 
 /**** header ****/
-.banner {
-  text-align: center;
-  padding: 1rem;
+header > h1 {
+  font-size: calc(1.375rem + 1.5vw);
 }
 
 /**** footer ****/
@@ -113,7 +112,6 @@ hr {
   opacity: 0;
 }
 
-
 /***** override primary button *****/
 .btn-primary {
   --bs-btn-bg: var(--color-12);
@@ -126,22 +124,21 @@ hr {
   text-underline-offset: 0.25em !important;
 }
 
-
 /***** background image *****/
-.bg-img-hero{
+.bg-img-hero {
   background-image: url(/images/one-zero.jpg);
   background-size: cover;
 }
 
 /***** horizontal bar ******/
-.h-bar{
+.h-bar {
   width: 80%;
   height: 0.5rem;
   background-color: #fff;
   margin: auto;
 }
 
-.text-underline{
+.text-underline {
   text-decoration: underline;
   text-underline-offset: 0.25em !important;
 }
