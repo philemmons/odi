@@ -129,8 +129,8 @@ hr {
   opacity: 0;
 }
 
-:focus-visible {
-  outline: var(--color-30) auto 2px !important;
+.navbar-nav:focus-visible, .nav-item:focus-visible {
+  outline: var(--color-30) auto 1px !important;
 }
 
 
