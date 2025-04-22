@@ -13,7 +13,8 @@ include_once 'header-bottom.inc';
     <div class="container-fluid">
       <div class="row justify-content-center mb-5 bg-img-hero">
         <div class="col-xl-6 col-lg-7 col-md-9">
-          <section class="text-center text-white text-underline align-middle">
+          
+        <section class="text-center text-white text-underline align-middle">
             <h1 >Website Design | OnDemand IT</h1>
           </section>
         </div>
@@ -21,34 +22,15 @@ include_once 'header-bottom.inc';
     </div>
   </header>
 
-  <nav class="navbar navbar-expand-lg odit-navbar-light" aria-label="main menu">
-    <div class="container-xxl">
-      <a class="navbar-brand" href="/">
-        <p class="odit-logo-title h4"><img src="images\icons\favicon-32x32.png" alt="Flip flop circuit logo" class="pe-2">OnDemand IT</p>
-
-      </a>
-      <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#topNavbar" aria-controls="topNavbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="pe-2">Main Menu</span>
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="topNavbar">
-        <ul class="navbar-nav ms-auto my-2 my-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active px-2" href="/" aria-current="page"><span class="visually-hidden">(current)</span>Website Design</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-2" href="#survey">Survey Coding</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link px-2" href="#about">About Us</a>
-          </li>
-          <li class="nav-item" style="border-right: none;">
-            <a class="nav-link px-2" href="#message">Message</a>
-          </li>
-        </ul>
-      </div>
+  <div class="p-5 text-center bg-body-tertiary">
+    <div class="container py-5">
+      <h1 class="text-body-emphasis">Full-width jumbotron</h1>
+      <p class="col-lg-8 mx-auto lead">
+        This takes the basic jumbotron above and makes its background edge-to-edge with a <code>.container</code> inside to align content. Similar to above, it's been recreated with built-in grid and utility classes.
+      </p>
     </div>
-  </nav>
+  </div>
+
 
   <main>
     More Content Incoming.

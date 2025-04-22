@@ -129,81 +129,6 @@ hr {
   text-underline-offset: 0.25em !important;
 }
 
-/***** navbar *****/
-.odit-navbar-light {
-  color: var(--color-20);
-  position: absolute;
-  left: 0;
-  right: 0;
-  z-index: 3;
-  padding: 0.25rem 0;
-  letter-spacing: 1px;
-}
-
-.odit-logo-title {
-  font-family: var(--ff-header);
-  color: var(--color-1);
-  letter-spacing: 2px;
-  margin-bottom: 0 !important;
-  padding: 0 0 0 0.5rem;
-  white-space: normal !important;
-}
-
-.odit-navbar-dark {
-  background-color: var(--color-20);
-  letter-spacing: 1px;
-}
-
-.navbar-nav>.nav-item>.nav-link {
-  color: var(--color-1);
-}
-
-.navbar-nav>li>a:hover{
-  color: var(--color-1) !important;
-  text-decoration: underline;
-
-}
-
-.log-input:hover {
-  background-color: var(--color-4);
-  color: var(--color-1) !important;
-  text-decoration: underline;
-}
-
-.navbar-nav>.nav-item>.nav-link.active {
-  font-style: italic;
-  background-color: var(--color-3);
-  color: var(--color-1);
-  text-decoration: underline;
-}
-
-.log-input {
-  color: var(--color-1);
-  letter-spacing: 1px;
-}
-
-@media screen and (max-width: 991.98px) {
-  .odit-navbar-light {
-    padding: 1em 0;
-    position: relative;
-    top: 0;
-  }
-
-  .navbar-nav>.nav-item>.nav-link {
-    color: var(--color-1);
-  }
-
-  .odit-navbar-light .navbar-nav>.nav-item .nav-link.active {
-    background-color: var(--color-3);
-    text-decoration: underline;
-  }
-
-  .navbar-nav>li>a:hover {
-    background-color: var(--color-9);
-    color: var(--color-2) !important;
-  }
-
-}
 
 /**** navbar toggle ****/
 .navbar-toggler {
@@ -219,12 +144,7 @@ hr {
   background-image: url('../images/white-toggler.png') !important;
 }
 
-/***** crumb *****/
-a.odit-crumb, a.mch-crumb:active {
-  text-decoration: none;
-  color: var(--color-1);
-  letter-spacing: 1px;
-}
+
 
 /***** background image *****/
 .bg-img-hero{
