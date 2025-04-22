@@ -55,6 +55,7 @@ include_once 'header-bottom.inc';
   <header id="main-content">
     <div class="py-6 px-5 text-center bg-img-hero">
       <div class="container-fluid py-5">
+        <section aria-label=""
         <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
         <div class="h-bar-light"></div>
         <p class="col-lg-8 mx-auto fs-4 py-2 text-white">Whether you need a one-time update, or ongoing support, we want your website to stay competitive and effective.
@@ -151,10 +152,12 @@ include_once 'header-bottom.inc';
     </div>
   </main>
 
-  <aside>
+  <article>
     <div class="p-1 bg-img-hero">
       <div class="container-fluid py-2">
+      <section aria-label="More about us">
         <h3 class="text-white fw-bold text-uppercase">Why Choose Us?</h1>
+        </section>
       </div>
     </div>
 
@@ -201,7 +204,7 @@ include_once 'header-bottom.inc';
       </div>
 
     </div>
-  </aside>
+</article>
 
   <!--
   <aside>
@@ -264,13 +267,17 @@ include_once 'header-bottom.inc';
 
   <div class="h-bar-dark"></div>
 
+  <aside>
   <div class="container">
       <div class="row">
         <div class="col-12">
-          <h3 call="fw-bold">Let's create a website that enhances your brand, engages your audience, and supports your growth.</h3>
+          <section aria-label="Call to Action">
+          <h3 call="fw-bold">Let's create a website that enhances your brand, engages your audience, and supports your business growth.</h3>
+          </section>
         </div>
       </div>
   </div>
+  </aside>
 
   <?php include_once "footer.inc"; ?>
 
