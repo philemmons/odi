@@ -108,7 +108,7 @@ hr {
   top: 0.5em;
   opacity: 1;
   transition: transform 0.1875s ease-out;
-  background-color: var(--color-11);
+  background-color: var(--color-24);
 }
 
 .btn-skip:not(:focus):not(:hover) {
