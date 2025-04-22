@@ -8,28 +8,20 @@ include_once 'header-bottom.inc';
 <body id="toTop">
   <a href="#main-content" class="btn btn-primary btn-skip" aria-label="Go To Main Content">Go To Main Content</a>
 
+  <!-- Hero Section -->
   <header id="main-content">
-    <!-- Hero Section -->
-    <div class="container-fluid">
-      <div class="row justify-content-center mb-5 bg-img-hero">
-        <div class="col-xl-6 col-lg-7 col-md-9">
-          
-        <section class="text-center text-white text-underline align-middle">
-            <h1 >Website Design | OnDemand IT</h1>
-          </section>
-        </div>
+    <div class="p-5 text-center bg-img-hero">
+      <div class="container-fluid py-5">
+        <h1 class="text-body-emphasis">Website Design | OnDemand IT</h1>
+        <div class="h-bar"></div>
+        <p class="col-lg-8 mx-auto lead">
+          This takes the basic jumbotron above and makes its background edge-to-edge with a <code>.container</code> inside to align content. Similar to above, it's been recreated with built-in grid and utility classes.
+        </p>
       </div>
     </div>
   </header>
 
-  <div class="p-5 text-center bg-body-tertiary">
-    <div class="container py-5">
-      <h1 class="text-body-emphasis">Full-width jumbotron</h1>
-      <p class="col-lg-8 mx-auto lead">
-        This takes the basic jumbotron above and makes its background edge-to-edge with a <code>.container</code> inside to align content. Similar to above, it's been recreated with built-in grid and utility classes.
-      </p>
-    </div>
-  </div>
+
 
 
   <main>
