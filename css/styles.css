@@ -131,7 +131,7 @@ hr {
 
 /***** navbar *****/
 .odit-navbar-light {
-  background-color: var(--color-20);
+  color: var(--color-20);
   position: absolute;
   top: 2rem;
   left: 0;
