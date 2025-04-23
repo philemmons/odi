@@ -27,9 +27,9 @@
         </div>
     </div>
 
-    <div class="container bg-dark-blue py-3">
+    <div class="container bg-img-hero py-3">
         <div class="row">
-            <div class="col-sm-12 text-center text-white fs-7">
+            <div class="col-sm-12 text-center text-white">
                 <p class="pt-1">© 2025 OnDemand IT  |  All Right Reserved.  |  Powered by Caffeine.
                 </p>
             </div>

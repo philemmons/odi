@@ -58,7 +58,7 @@ include_once 'header-bottom.inc';
         <section aria-label="Hero banner">
           <h1 class="py-1 text-white">Website Design | OnDemand IT</h1>
           <div class="h-bar-light"></div>
-          <p class="col-lg-6 col-md-8 col-sm-10 mx-auto py-2 text-white">Whether you need a one-time update, or ongoing support, we help your website to stay competitive and effective.
+          <p class="col-lg-6 col-md-8 col-sm-10 mx-auto fs-4 py-2 text-white">Whether you need a one-time update, or ongoing support, we help your website to stay competitive and effective.
           </p>
         </section>
       </div>
@@ -69,7 +69,7 @@ include_once 'header-bottom.inc';
     <div class="container">
       <div class="row">
         <div class="col-sm-12 py-4">
-          <h2 class="fw-bold text-uppercase">Website Services</h2>
+          <h2 class="fw-bold text-uppercase fs-2">Website Services</h2>
         </div>
 
         <div class="col-sm-8">
@@ -91,7 +91,7 @@ include_once 'header-bottom.inc';
     <div class="container py-5">
       <div class="row">
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Custom Website Design & Branding
+          <p class="fw-bold fs-4 m-0">Custom Website Design & Branding
           </p>
           <ul>
             <li>A professional, mobile-friendly design that strengthens your brand identity and attracts conversions.</li>
@@ -99,7 +99,7 @@ include_once 'header-bottom.inc';
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Content Updates & Support</p>
+          <p class="fw-bold fs-4 m-0">Content Updates & Support</p>
           <ul>
             <li>Regularly refreshed, high-quality content keeps your website relevant and engaging.</li>
             <li>Enhances credibility and strengthens customer trust in your brand.</li>
@@ -107,7 +107,7 @@ include_once 'header-bottom.inc';
         </div>
 
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Website Maintenance & Security
+          <p class="fw-bold fs-4 m-0">Website Maintenance & Security
           </p>
           <ul>
             <li>Enhances credibility and strengthens customer trust in your brand.</li>
@@ -115,7 +115,7 @@ include_once 'header-bottom.inc';
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">WCAG 2.1 Compliance & Accessibility</p>
+          <p class="fw-bold fs-4 m-0">WCAG 2.1 Compliance & Accessibility</p>
           <ul>
             <li>Ensures inclusivity by making your website usable for all visitors, including those with disabilities.</li>
             <li>Helps meet legal requirements and improves overall user experience.</li>
@@ -123,14 +123,14 @@ include_once 'header-bottom.inc';
         </div>
 
         <div class="col-sm-6">
-          <p class="fw-bold m-0">E-Commerce Solutions</p>
+          <p class="fw-bold fs-4 m-0">E-Commerce Solutions</p>
           <ul>
             <li>Secure, user-friendly online store setup with seamless checkout experiences.</li>
             <li>Optimized for conversions to increase sales and customer retention.</li>
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Plugin & Software Updates</p>
+          <p class="fw-bold fs-4 m-0">Plugin & Software Updates</p>
           <ul>
             <li>Regular maintenance ensures your website remains functional, secure, and compatible with the latest technologies.</li>
             <li>Reduces risks of crashes, broken features, or security vulnerabilities.</li>
@@ -138,14 +138,14 @@ include_once 'header-bottom.inc';
         </div>
 
         <div class="col-sm-6">
-          <p class="fw-bold m-0">SEO & Performance Optimization</p>
+          <p class="fw-bold fs-4 m-0">SEO & Performance Optimization</p>
           <ul>
             <li>Faster load times, structured data, and keyword strategies improve search rankings.</li>
             <li>Drives organic traffic, making it easier for potential customers to find you.</li>
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Hosting, Domain, and DNS Support</p>
+          <p class="fw-bold fs-4 m-0">Hosting, Domain, and DNS Support</p>
           <ul>
             <li>Reliable hosting solutions ensure speed, uptime, and security for your website.</li>
             <li>Domain and email setup provide a professional and credible online presence.</li>
@@ -172,40 +172,40 @@ include_once 'header-bottom.inc';
       <div class="row">
 
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Brand-Focused Design & Strategy
+          <p class="fw-bold fs-4 m-0">Brand-Focused Design & Strategy
           </p>
           <ul>
             <li>Your website is crafted to reflect your unique identity, ensuring consistency across all digital platforms.</li>
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">SEO-Optimized & Accessible Websites</p>
+          <p class="fw-bold fs-4 m-0">SEO-Optimized & Accessible Websites</p>
           <ul>
             <li>Maximizes visibility on search engines while ensuring an inclusive experience for all users.</li>
           </ul>
         </div>
 
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Flexible Support Options</p>
+          <p class="fw-bold fs-4 m-0">Flexible Support Options</p>
           <ul>
             <li>Choose between one-time fixes or long-term maintenance plans tailored to your business needs.</li>
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Fast Turnaround Time</p>
+          <p class="fw-bold fs-4 m-0">Fast Turnaround Time</p>
           <ul>
             <li>We prioritize efficiency, ensuring your website is up and running without unnecessary delays.</li>
           </ul>
         </div>
 
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Dedicated Ongoing Support Option</p>
+          <p class="fw-bold fs-4 m-0">Dedicated Ongoing Support Option</p>
           <ul>
             <li>We provide continuous assistance and improvements, keeping your website modern and competitive.</li>
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold m-0">Competitive Services</p>
+          <p class="fw-bold fs-4 m-0">Competitive Services</p>
           <ul>
             <li>We match or exceed those available in the Monterey area.</li>
           </ul>
