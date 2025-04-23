@@ -68,7 +68,7 @@ include_once 'header-bottom.inc';
   <main>
     <div class="container">
       <div class="row">
-        <div class="col-sm-12 py-3">
+        <div class="col-sm-12 py-5">
           <h2 class="fw-bold text-uppercase fs-2">Website Services</h2>
         </div>
 
@@ -81,14 +81,14 @@ include_once 'header-bottom.inc';
           <img class="img-thumbnail" src="/images/zero-one-graph.jpg" alt="">
         </div>
 
-        <div class="col-sm-12 fw-bold text-center pt-3">
+        <div class="col-sm-12 fw-bold text-center pt-5">
           <p class="fs-3">We specialize in SEO-driven, accessible web sites designed for small businesses, entrepreneurs, and freelancers. Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
           </p>
         </div>
       </div>
     </div>
 
-    <div class="container py-3">
+    <div class="container py-5">
       <div class="row">
         <div class="col-sm-6">
           <p class="fw-bold fs-3">Custom Website Design & Branding
@@ -157,14 +157,18 @@ include_once 'header-bottom.inc';
 
   <article>
     <div class="bg-img-hero">
-      <div class="container-fluid p-3 ">
-        <section aria-label="More about us">
-          <h3 class="text-white fw-bold text-uppercase">Why Choose Us?</h1>
-        </section>
+      <div class="container-fluid p-5 ">
+        <div class="row">
+          <div class="col-sm-12">
+            <section aria-label="More about us">
+              <h3 class="text-white fw-bold text-uppercase">Why Choose Us?</h1>
+            </section>
+          </div>
+        </div>
       </div>
     </div>
 
-    <div class="container py-3">
+    <div class="container py-5">
       <div class="row">
 
         <div class="col-sm-6">
@@ -211,73 +215,14 @@ include_once 'header-bottom.inc';
     </div>
   </article>
 
-  <!--
-  <aside>
-    <div class="py-1 px-1 bg-img-hero">
-      <div class="container-fluid py-1">
-        <h1 class="py-1 text-white fw-bold text-uppercase">Why Choose Us?</h1>
-      </div>
-    </div>
-
-    <div class="row">
-
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3"></p>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3"></p>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3"></p>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3"></p>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3"></p>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="col-sm-6">
-        <p class="fw-bold fs-3"></p>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      
-    </div>
-  </aside>
--->
-
   <div class="h-bar-dark "></div>
 
   <aside>
-    <div class="container py-3">
+    <div class="container pt-5">
       <div class="row">
         <div class="col-sm-12">
           <section aria-label="Call to Action">
-            <h3 call="fw-bold">Let's create a website that enhances your brand, engages your audience, and supports your business growth.</h3>
+            <h3 class="fw-bold px-5 fs-2">Let's create a website that enhances your brand, engages your audience, and supports your business growth.</h3>
           </section>
         </div>
       </div>
