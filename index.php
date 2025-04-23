@@ -68,7 +68,7 @@ include_once 'header-bottom.inc';
   <main>
     <div class="container">
       <div class="row">
-        <div class="col-sm-12 py-5">
+        <div class="col-sm-12 py-4">
           <h2 class="fw-bold text-uppercase fs-2">Website Services</h2>
         </div>
 
@@ -91,7 +91,7 @@ include_once 'header-bottom.inc';
     <div class="container py-5">
       <div class="row">
         <div class="col-sm-6">
-          <p class="fw-bold fs-2">Custom Website Design & Branding
+          <p class="fw-bold fs-4">Custom Website Design & Branding
           </p>
           <ul>
             <li>A professional, mobile-friendly design that strengthens your brand identity and attracts conversions.</li>
@@ -157,9 +157,9 @@ include_once 'header-bottom.inc';
 
   <article>
     <div class="bg-img-hero">
-      <div class="container-fluid p-5 ">
+      <div class="container-fluid px-5 py-3 ">
         <div class="row justify-content-center">
-          <div class="col-sm-6">
+          <div class="col-sm-9">
             <section aria-label="More about us">
               <h3 class="text-white fw-bold text-uppercase">Why Choose Us?</h1>
             </section>
@@ -220,7 +220,7 @@ include_once 'header-bottom.inc';
   <aside>
     <div class="container pt-5">
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 text-center">
           <section aria-label="Call to Action">
             <h3 class="fw-bold px-5 fs-2">Let's create a website that enhances your brand, engages your audience, and supports your business growth.</h3>
           </section>
