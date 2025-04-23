@@ -68,21 +68,21 @@ include_once 'header-bottom.inc';
   <main>
     <div class="container">
       <div class="row">
-        <div class="col-sm-12">
-          <h2 class="fw-bold text-uppercase">Website Services</h2>
+        <div class="col-sm-12 py-3">
+          <h2 class="fw-bold text-uppercase fs-2">Website Services</h2>
         </div>
 
         <div class="col-sm-8">
-          <p class="fw-bold">Maximize Your Online Impact</p>
-          <p>Your website is more than just an online presence—it's a vital tool for branding, customer engagement, and business growth. Our website design, branding, and maintenance services ensure your site is visually compelling, secure, and optimized for performance.
+          <p class="fw-bold fs-3">Maximize Your Online Impact</p>
+          <p class="fs-4">Your website is more than just an online presence—it's a vital tool for branding, customer engagement, and business growth. Our website design, branding, and maintenance services ensure your site is visually compelling, secure, and optimized for performance.
           </p>
         </div>
         <div class="col-sm-4">
           <img class="img-thumbnail" src="/images/zero-one-graph.jpg" alt="">
         </div>
 
-        <div class="col-sm-12 fw-bold text-center">.
-          <p>We specialize in SEO-driven, accessible web sites designed for small businesses, entrepreneurs, and freelancers. Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
+        <div class="col-sm-12 fw-bold text-center py-2">
+          <p class="fs-3">We specialize in SEO-driven, accessible web sites designed for small businesses, entrepreneurs, and freelancers. Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
           </p>
         </div>
       </div>
