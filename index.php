@@ -69,7 +69,7 @@ include_once 'header-bottom.inc';
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <h2 call="fw-bold text-uppercase">Website Services</h2>
+          <h2 class="fw-bold text-uppercase">Website Services</h2>
         </div>
 
         <div class="col-sm-8">
@@ -99,7 +99,7 @@ include_once 'header-bottom.inc';
           </ul>
         </div>
         <div class="col-sm-6">
-          <p class="fw-bold fs-3">Content Updates & Suppor</p>
+          <p class="fw-bold fs-3">Content Updates & Support</p>
           <ul>
             <li>Regularly refreshed, high-quality content keeps your website relevant and engaging.</li>
             <li>Enhances credibility and strengthens customer trust in your brand.</li>
