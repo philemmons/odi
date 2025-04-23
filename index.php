@@ -74,21 +74,21 @@ include_once 'header-bottom.inc';
 
         <div class="col-sm-8">
           <p class="fw-bold fs-3">Maximize Your Online Impact</p>
-          <p class="fs-4">Your website is more than just an online presence—it's a vital tool for branding, customer engagement, and business growth. Our website design, branding, and maintenance services ensure your site is visually compelling, secure, and optimized for performance.
+          <p>Your website is more than just an online presence—it's a vital tool for branding, customer engagement, and business growth. Our website design, branding, and maintenance services ensure your site is visually compelling, secure, and optimized for performance.
           </p>
         </div>
         <div class="col-sm-4">
           <img class="img-thumbnail" src="/images/zero-one-graph.jpg" alt="">
         </div>
 
-        <div class="col-sm-12 fw-bold text-center py-2">
+        <div class="col-sm-12 fw-bold text-center pt-3">
           <p class="fs-3">We specialize in SEO-driven, accessible web sites designed for small businesses, entrepreneurs, and freelancers. Whether you need one-time updates or ongoing support, we help your website stay competitive and effective.
           </p>
         </div>
       </div>
     </div>
 
-    <div class="container">
+    <div class="container py-3">
       <div class="row">
         <div class="col-sm-6">
           <p class="fw-bold fs-3">Custom Website Design & Branding
@@ -156,15 +156,15 @@ include_once 'header-bottom.inc';
   </main>
 
   <article>
-    <div class="p-1 bg-img-hero">
-      <div class="container-fluid py-2">
+    <div class="bg-img-hero">
+      <div class="container-fluid p-3 ">
         <section aria-label="More about us">
           <h3 class="text-white fw-bold text-uppercase">Why Choose Us?</h1>
         </section>
       </div>
     </div>
 
-    <div class="container">
+    <div class="container py-3">
       <div class="row">
 
         <div class="col-sm-6">
@@ -270,10 +270,10 @@ include_once 'header-bottom.inc';
   </aside>
 -->
 
-  <div class="h-bar-dark"></div>
+  <div class="h-bar-dark "></div>
 
   <aside>
-    <div class="container">
+    <div class="container py-3">
       <div class="row">
         <div class="col-sm-12">
           <section aria-label="Call to Action">

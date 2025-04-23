@@ -1,6 +1,6 @@
 <footer>
     <div class="container-fluid">
-        <div class="row justify-content-evenly py-6 ">
+        <div class="row justify-content-evenly py-3">
 
             <div class="col-sm-2 px-2">
                 <ul class="list-group list-group-flush">
@@ -31,7 +31,7 @@
         </div>
     </div>
 
-    <div class="container bg-dark-blue py-2">
+    <div class="container bg-dark-blue py-3">
         <div class="row">
             <div class="col-sm-12 text-center text-white fs-7">
                 <p class="pt-1">© 2025 OnDemand IT | All Right Reserved. | Powered by Caffeine.
