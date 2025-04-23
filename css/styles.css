@@ -19,6 +19,8 @@
   --ff-main: Georgia, Helvetica, Calibri, Arial, sans-serif;
 
   --bs-navbar-toggler-focus-width: var(--color-20) !important;
+
+  --bs-list-group-color: var(--color-31) !important;
 }
 
 /**** typography and spacing ****/
@@ -61,7 +63,7 @@ h4,
 h5,
 h6 {
   line-height: 1.5 !important;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 a {
