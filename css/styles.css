@@ -44,6 +44,10 @@ body {
   padding-bottom: 7rem !important;
 }
 
+.fs-7{
+  font-size: 0.75rem
+}
+
 .h1,
 .h2,
 .h3,
@@ -95,6 +99,10 @@ hr {
 #footer-image > p {
   font-size: 12px;
   padding-top: 1rem;
+}
+
+.bg-dark-blue{
+  background-color: #03035e;
 }
 
 /***** override primary button *****/

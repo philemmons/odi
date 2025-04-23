@@ -1,8 +1,8 @@
 <footer class="container">
 
-    <div class="row py-6 px-5">
+    <div class="row py-6">
 
-        <div class="col-sm-4">
+        <div class="col-sm-4 px-2">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item text-uppercase fw-bold">Contact</li>
                 <li class="list-group-item">Phillip Emmons</li>
@@ -11,7 +11,7 @@
             </ul>
         </div>
 
-        <div class="col-sm-4">
+        <div class="col-sm-4 px-2">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item text-uppercase fw-bold">Hours of Operation</li>
                 <li class="list-group-item">Monday to Friday</li>
@@ -20,7 +20,7 @@
             </ul>
         </div>
 
-        <div class="col-sm-4">
+        <div class="col-sm-4 px-2">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">Accessibility</li>
                 <li class="list-group-item">Terms of Service</li>
@@ -29,7 +29,7 @@
             </ul>
         </div>
 
-        <div class="col-sm-12 text-center">
+        <div class="col-sm-12 text-center py-5 bg-dark-blue text-white fs-">
             <p>© 2025 OnDemand IT | All Right Reserved. | Powered by Caffeine.
             </p>
         </div>
