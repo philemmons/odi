@@ -19,9 +19,9 @@
 
             <div class="col-lg-2 py-3">
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item p-0 text-black">Accessibility</li>
-                    <li class="list-group-item p-0 text-black">Terms of Service</li>
-                    <li class="list-group-item p-0 text-black">Privacy Policy</li>
+                    <li class="list-group-item p-0">Accessibility</li>
+                    <li class="list-group-item p-0">Terms of Service</li>
+                    <li class="list-group-item p-0">Privacy Policy</li>
                 </ul>
             </div>
         </div>
